@@ -1,0 +1,31 @@
+8
+
+dir
+8
+http://192.168.33.13:8081/subversion/maven/src/test/java
+http://192.168.33.13:8081/subversion
+
+
+
+2018-07-02T16:50:25.776077Z
+5
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a4f4398c-7e15-11e8-a2f7-01d57e439e51
+
+com
+dir
+
